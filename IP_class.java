@@ -4,4 +4,3 @@ public class IP_class {
     }
 }
 
-    
